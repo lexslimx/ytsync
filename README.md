@@ -1,0 +1,2 @@
+# ytsync
+Sync youtube subscriptions
